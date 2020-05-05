@@ -1,9 +1,3 @@
-/*Alex Drogo
- * 03-15-2019
- * CIS-1068
- * Professor Fiore
- */
-
 package SouthieStyle;
 
 import java.io.File;
